@@ -9,8 +9,8 @@ hour_end = input("Please enter the end time of your work")
 driver = webdriver.Chrome()
 
 ##Get to the main page
-user = "bz15"
-pwd = "cexf28322832"
+user = "xxxx"
+pwd = "xxxx"
 
 driver.get("http://thehub.hampshire.edu")
 assert "TheHub Main Menu" in driver.title
