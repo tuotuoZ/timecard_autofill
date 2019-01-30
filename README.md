@@ -16,7 +16,7 @@ card bi-weekly. It's still the alpha version but working.
 
 ### App Walkthough GIF
 
-<img src="https://github.com/tuotuoZ/timecard_autofill/blob/master/beta_autofill.gif" width=250><br>
+<img src="https://github.com/tuotuoZ/timecard_autofill/blob/master/beta_autofill.gif" width=800><br>
 
 ### How to use
 
