@@ -11,6 +11,8 @@ card bi-weekly. It's still the alpha version but working.
 - [x] User can enter a day of the week and one time slot of that day so that the program will fill that one slot for the user.
 - [ ] User can enter multiple days and slots at the same time.
 - [ ] User can switch between different browsers.
+- [ ] User can choose between different jobs
+- [ ] User can save their time slot so they can easily do that next time
 
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
