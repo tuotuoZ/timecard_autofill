@@ -15,9 +15,8 @@ card bi-weekly. It's still the alpha version but working.
 - [ ] User can save their time slot so they can easily do that next time
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/tuotuoZ/timecard_autofill/blob/master/beta_autofill.gif" width=250><br>
 
 ### How to use
 
