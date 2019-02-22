@@ -3,6 +3,10 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 
 # Get the user info
+# 存一个cookie 或者 存下来加密每次读区
+# SAVE THE INFO USING A GUI
+# To do list: Javascript timely send
+# Fi
 user = input("Please enter your user name: ")
 pwd = input("Please enter your password: ")
 Weekday = input("Please enter a working day: ").lower()
