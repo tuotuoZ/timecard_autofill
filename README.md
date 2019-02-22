@@ -16,7 +16,7 @@ card bi-weekly. It's still the alpha version but working.
 
 ### App Walkthough GIF
 
-<img src="https://github.com/tuotuoZ/timecard_autofill/blob/master/beta_autofill.gif" width=800><br>
+![test](beta_autofill.gif)
 
 ### How to use
 
@@ -32,4 +32,3 @@ python timecard_beta.py
 5. You should see a web window pop up and python will take care of the rest job. By default, the submit option is: "Save and I will go back", if you can finial check before you submit it.
 6. Enjoy!
 
-![test](beta_autofill.gif)
