@@ -12,8 +12,7 @@ card bi-weekly. It's still the alpha version but working.
 - [x] User can enter multiple days and slots at the same time.
 - [ ] User can switch between different browsers.
 - [ ] User can choose between different jobs
-- [ ] User can save their time slot so they can easily do that next time
-
+- [ ] User can give extra parameter to determine if they want to submit for final. 
 ### App Walkthough GIF
 
 ![test](beta_autofill.gif)
